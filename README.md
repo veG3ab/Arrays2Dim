@@ -34,8 +34,8 @@
  - `copyOfRange(int[][] t, int x, int y)` - Vrne kopijo dela tabele od (0,0) do (x,y)
  
  - `equals(int[][] t1, int[][] t2)` - Primerja celotno tabelo z drugo
- - `equals(int[][] t1, int[][] t2, int row1, int row2) - Primerja vrstici tabel podanimi s parametri `row1`, `row2`
- - `equals(int[][] t1, int[][] t2, int col1, int col2) - Primerja stolpca tabel podanimi s parametri `col1`, `col2`
+ - `equals(int[][] t1, int[][] t2, int row1, int row2)` - Primerja vrstici tabel podanimi s parametri `row1`, `row2`
+ - `equals(int[][] t1, int[][] t2, int col1, int col2)` - Primerja stolpca tabel podanimi s parametri `col1`, `col2`
  
  - `sort(int[][] t1, int row)` - Razvrsti izbrano vrstico
  - `sort(int[][] t1, int col)` - Razvrsti izbran  stolpec
